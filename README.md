@@ -1,7 +1,10 @@
 ### Olá! Eu sou o Hugo Gomes
 
-<div align="center">
-  <a href="https://github.com/hugomes99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomes99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomes99&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomes99&hide=html,TeX,Jupyter%20Notebook&layout=compact&theme=merko" /></td>
+        <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=hugomes99&theme=merko"/></td>
+    </tr>
+  </table>
+</center>
